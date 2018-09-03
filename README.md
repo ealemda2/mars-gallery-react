@@ -1,4 +1,4 @@
-## Curiosity Rover Image Gallery - React
+## Curiosity Rover Image Gallery
 This is a very basic React project that demonstrates how to fetch a list of images using [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and display them on an image slider using [react-image-lightbox](https://github.com/ealemda2/react-image-lightbox).
 
 To run:
