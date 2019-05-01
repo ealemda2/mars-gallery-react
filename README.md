@@ -3,7 +3,7 @@ This is a very basic React project that demonstrates how to fetch a list of imag
 
 To run:
 ```
-npm install
+yarn install
 ```
 
 ```
